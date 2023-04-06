@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&family=Roboto:wght@300;500&family=Rubik+Dirt&display=swap");
+
+
+/* Generales */
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+    /* font-weight: 300; */
+    font-size: 1rem;
+}
+
+.logo {
+    height: 1.563rem;
+}
+
+/* Seccion Cupones */
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-direccion {
+    font-size: 0.8125rem;
+}
+
+.card-precio-final {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #28a745;
+    margin-left: 1rem;
+}
+
+/* Seccion Formulario */
+.form-titulo {
+    font-size: 1.3125rem;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+}
